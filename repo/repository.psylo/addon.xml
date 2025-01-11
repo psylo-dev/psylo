@@ -9,11 +9,10 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Psylo Repository</summary>
-        <description>Psylo/Samara TV Kodi repository für XBOX.</description>
+        <description>SamaraTV Kodi Repository für XBOX.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
-            <icon>repo/repository.psylo/icon.png</icon>
             <fanart>repo/repository.psylo/fanart.jpg</fanart>
         </assets>
     </extension>
