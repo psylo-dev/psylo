@@ -1,3 +1,6 @@
 [submodule "repo/plugin.program.super.favourites"]
 	path = repo/plugin.program.super.favourites
 	url = https://github.com/jmooremcc/plugin.program.super.favourites.git
+[submodule "repo/skin.unity"]
+	path = repo/skin.unity
+	url = https://github.com/psylo-dev/skin.unity.git
