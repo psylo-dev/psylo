@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.psylo" name="Psylo Repository" version="1.0.0" provider-name="psylo-dev">
+    <extension point="xbmc.addon.repository" name="Psylo Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/psylo-dev/repository.psylo/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/psylo-dev/repository.psylo/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/psylo-dev/repository.psylo/main/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Psylo Repository</summary>
+        <description>Psylo/Samara TV Kodi repository für XBOX.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>repo/repository.psylo/icon.png</icon>
+            <fanart>repo/repository.psylo/fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
